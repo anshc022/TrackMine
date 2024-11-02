@@ -35,7 +35,7 @@ TrackMine is a comprehensive web-based application designed to transform the mon
 
 To deploy and use TrackMine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/team-trishul/trackmine.git`
+1. Clone the repository: `git clone https://github.com/anshc022/trackmine.git`
 2. Install dependencies: `cd trackmine && npm install`
 3. Configure environment variables: Create a `.env` file and set the required variables (e.g., database connection, API keys, etc.).
 4. Start the development server: `npm start`
